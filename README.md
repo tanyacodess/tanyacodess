@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **HTML,CSS,C++**
+- 💬 Ask me about **HTML,CSS,C++,javascript**
 
 - 📫 How to reach me **tanya.vats02@gmail.com**
 
